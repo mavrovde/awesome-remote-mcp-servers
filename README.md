@@ -1667,7 +1667,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vedar MCP connector](https://glama.ai/mcp/connectors/ru.vedarai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.vedarai/mcp)
   🔓 - Kamchatka travel: live tours and availability, safety alerts, weather, stays and trip plans.
 - [ViaFrei](https://viafrei.de) `https://mcp.viafrei.de/mcp`
-  🔓 - Germany's open mobility data: Autobahn traffic and closures, DB trains, local transit, fuel, EV charging, parking and DWD warnings, with sources.
+  🔓 - Germany's open mobility data: Autobahn traffic, DB trains, local transit, fuel, EV charging, parking and DWD warnings.
 - [VoyageHacks](https://voyagehacks.com/en/mcp-server/) `https://voyagehacks.com/mcp`
   [![VoyageHacks MCP connector](https://glama.ai/mcp/connectors/com.voyagehacks/travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.voyagehacks/travel)
   🔓 - Search fact-checked travel guides in 11 languages, build packing kits, and get booking links.
